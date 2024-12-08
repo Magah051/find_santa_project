@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 40a99d27c03c4c0459c4972c51234903
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!birds_ small flying_0'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71211cfae526429498f2505f9ee4cb21
+      internalID: -566855183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_1'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730b7377e07ae048b7c42b54d4a8b81
+      internalID: 1906887444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_2'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd699f2f55519c54cb7b207ca437c066
+      internalID: -276947057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_3'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503b6b3fe0f82b4799bca03998f4f0f
+      internalID: 1150249493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_4'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59a16f1a295ff241a345f5850cbb685
+      internalID: -1483392474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_5'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69b4cbc563126499d9eed47ab8a94c
+      internalID: -575769275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_6'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c07c58bf8f23ab44be185dfa4b45551
+      internalID: 1245857793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_7'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa901ef04cb335945a23ab699f9bea7a
+      internalID: -599629962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_8'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fc06402de0cda4cabd0a4d940ef51b
+      internalID: -801925160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_9'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352018d18777d6443be2c1adb4589006
+      internalID: -1422253637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_10'
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32650871b006d5846a0404a852ec9d17
+      internalID: -1608397801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_11'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0014aebe9b7933341a738e9e1c4d0654
+      internalID: -587067211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_12'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825dbf7f18edc3a4aa98dd2f35babf33
+      internalID: 154163840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_13'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c593db36ec55443b174fe7ab37b473
+      internalID: -1677758852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_14'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3477d0da90c7043b0d1af6133a16ab
+      internalID: -1026651984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_15'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84248801b006044eb240b6c637fead4
+      internalID: 1761812946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_16'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a09ef11490154c9eacbe5fb455817
+      internalID: -455470894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_17'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b735b67abe534ca4655efe451febb
+      internalID: -336469720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_18'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41054b4578a5fb4da85ebfbb2be4406
+      internalID: 1726175529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_19'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140e11a8cd1c9a4999905d89ede1a93
+      internalID: 1672155747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_20'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac366ea5dc6ad94caabe4aef331893d
+      internalID: -1202824421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_21'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a387799bf8b3a244a93ddc92ea379ce
+      internalID: -1382602264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_22'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e1e3b03d9015f48921c862e4c1ccb3
+      internalID: -1761219130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_23'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074d077ccff7b746beaab9c3aa7a237
+      internalID: -258317085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_24'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b3c7ed5f50894faeee4ed1fc611e3
+      internalID: 2013244148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_25'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95548619a332b8d43a45ae93f8d9f06a
+      internalID: -1712542625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_26'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ce297584e82a54fa1bbb454ebd643e
+      internalID: 1416900158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_27'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805cf3299ec8cfa4e9e2a917168d7a58
+      internalID: 393771670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_28'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f99f55bb43af41865d91eef1e96a3
+      internalID: -408469880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_29'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96393c8f386bfd044a162bf5868da2f4
+      internalID: -1758945062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_30'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3275ec1e2802eb43b7c0ece19c55d79
+      internalID: -89784062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_31'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72d9e47a4549448b1a79880e4a6c5b
+      internalID: 584569771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_32'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3ad81b654d78499972bb2eb0da04d
+      internalID: -1915031263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_33'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea757c3938ebc8a4aa5988a282330600
+      internalID: 1509704087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_34'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6576ec850151a48b382a63e33a82a5
+      internalID: 211444766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_35'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efcfbb597a09f84da2f814d5426d02d
+      internalID: 1346954571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_36'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9a7e673281e64eb909a9c042fc307
+      internalID: -1919658218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_37'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28debc00eaf81314dbb32f9bc7dfe448
+      internalID: 1150176697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_38'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932a32714bf5ef47b341f2540f66901
+      internalID: 310592597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_39'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f15baba18f534246aabee8c8fffff57
+      internalID: -2020858272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_40'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafea0844f076214d93da2472fc9730a
+      internalID: 1198909254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_41'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8de683a44ea94c8c5afe436414519
+      internalID: -721429807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_42'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb5660f6098a7247a9fa7b7592226b8
+      internalID: -1868168355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_43'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ceaea06b3056458c181d913e9e3ac
+      internalID: 203614848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_44'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6e508342d05746b55a130e9bebc72
+      internalID: -42365961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_45'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea9171416a71e4d9ebb703f5b7dc87
+      internalID: -2048136337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_46'
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434f424379404474da5cb2561a7dbaea
+      internalID: -680065581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_47'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c5c25b20991142899becb016a9738
+      internalID: 534915321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_48'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3835dd21d4d5cb34c87fbcf27e882561
+      internalID: 1117551089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_49'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05c141ed2f798478732d0bc1318ac1
+      internalID: -2125510099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_50'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec773b79bbb3cdd4b9a37becdaca7c33
+      internalID: -1588798361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_51'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dbce7405c9f3e45b1cbff1ac078450
+      internalID: 1703651680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_52'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa274c7ad8dee5048b8c76aacc49d9ba
+      internalID: 1867010586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_53'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298225ae88abc948b783ba40f2a0ad2
+      internalID: 1997482827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_54'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073cdcc0bf06c943b9099771b4a9df4
+      internalID: -691354693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_55'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d23757e06ec69543845d15f45b43b2b
+      internalID: -832228558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_56'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714387df1d6b41547a7a994597cff6de
+      internalID: -1209738136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_57'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25ec8ddd72e604da4db165c66e4098
+      internalID: -198526846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_58'
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20543d5b761ee488fca50d0377cf78
+      internalID: -1049502687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_59'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1db7aa34c1e6c4d892adf5825aa02d
+      internalID: 656525557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_60'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9216a9039de071545b33f0d0ae430fe2
+      internalID: -2127578561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_61'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812f9f2828b8c045b5a4f25c7217be7
+      internalID: 786943717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_62'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d096015740e648a4023db9029c088
+      internalID: 101036641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_63'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e09e26efc3e24fb6937158b40f8c9
+      internalID: -2120479332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_64'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04427a731b1963145b0edca66ca8e9e2
+      internalID: 1814313390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_65'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6415ffa0d0b9a4b83c2e47763c9499
+      internalID: -1593272763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_66'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50839d0460722e94089f1a2dfdc3e1b6
+      internalID: 1634952704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_67'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a224eb6d85b9ba499fc33b0e8c39628
+      internalID: 1592930806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_68'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d38731688b61458411b1b8c88f638
+      internalID: -1459562587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_69'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017dfb0e142e0d4caec9426bf982a1e
+      internalID: 843786190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_70'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ead9fae4bfa3c499409de587921a71
+      internalID: -1036757955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_71'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26341f43920704190dd282903b985d
+      internalID: -1807903541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_72'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9279827a1f407468c3dc54e11ca295
+      internalID: -479803857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_73'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3395902a0e6c6294ca37152ac4d6b2e0
+      internalID: -553666121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_74'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8cdf87d10f519408d446ba4f07c6b2
+      internalID: 270172948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_75'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25888535e5c5bd1488d3c0d272b21d21
+      internalID: -672743077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_76'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c31f8e7b4ce347b20a105b4feeb48
+      internalID: -8066401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_77'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef522c406b00894c832fa33cefaf53d
+      internalID: 1707632771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_78'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c947f1f4b5244caa53f494bfefe97
+      internalID: 1706632468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_79'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e0418c67f6c740a8a49fd53d4db6d
+      internalID: 1583540971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_80'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b2697bd953334fa4055bcf7e6a3d0
+      internalID: 948268994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_81'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c0293b84157f44afea03d6eb620bd
+      internalID: -1608390209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_82'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87121c8c408f5b147ac9faf97761374b
+      internalID: -1291754824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_83'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2410beb3fc4c2a14694391e6849b5123
+      internalID: -958749165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_84'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19343fbbc7967a2419b5ffba7393dea1
+      internalID: -794306501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_85'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2913f75f8c7c49b84eb9f98219a28
+      internalID: 617193761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_86'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab20554170e564793866bb65e1ea5b
+      internalID: 240669784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_87'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff399d4396d8b428efce68963d16ce
+      internalID: -480325492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_88'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff670a08edc3b4faa051a63b175bae
+      internalID: 1860859287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_89'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c993843fda9da74e81349a530261472
+      internalID: -1341351509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_90'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857dcc952d24a244a5ff3b78607e52e
+      internalID: -463754971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_91'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d427c0b10698941b4c601468e1d348
+      internalID: 1447142735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_92'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908ba2a71ea1fe4eb652a2b6189d587
+      internalID: 952624667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_93'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69173a1b4b0ba8040b3df058b9c1baa3
+      internalID: 1541469169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_94'
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55702df17f7b304ea89efb135e6c5fb
+      internalID: 1784486941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!birds_ small flying_95'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2f0ddb1614cbf4886d902709d0d429
+      internalID: -486105991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '!birds_ small flying_0': -566855183
+      '!birds_ small flying_1': 1906887444
+      '!birds_ small flying_10': -1608397801
+      '!birds_ small flying_11': -587067211
+      '!birds_ small flying_12': 154163840
+      '!birds_ small flying_13': -1677758852
+      '!birds_ small flying_14': -1026651984
+      '!birds_ small flying_15': 1761812946
+      '!birds_ small flying_16': -455470894
+      '!birds_ small flying_17': -336469720
+      '!birds_ small flying_18': 1726175529
+      '!birds_ small flying_19': 1672155747
+      '!birds_ small flying_2': -276947057
+      '!birds_ small flying_20': -1202824421
+      '!birds_ small flying_21': -1382602264
+      '!birds_ small flying_22': -1761219130
+      '!birds_ small flying_23': -258317085
+      '!birds_ small flying_24': 2013244148
+      '!birds_ small flying_25': -1712542625
+      '!birds_ small flying_26': 1416900158
+      '!birds_ small flying_27': 393771670
+      '!birds_ small flying_28': -408469880
+      '!birds_ small flying_29': -1758945062
+      '!birds_ small flying_3': 1150249493
+      '!birds_ small flying_30': -89784062
+      '!birds_ small flying_31': 584569771
+      '!birds_ small flying_32': -1915031263
+      '!birds_ small flying_33': 1509704087
+      '!birds_ small flying_34': 211444766
+      '!birds_ small flying_35': 1346954571
+      '!birds_ small flying_36': -1919658218
+      '!birds_ small flying_37': 1150176697
+      '!birds_ small flying_38': 310592597
+      '!birds_ small flying_39': -2020858272
+      '!birds_ small flying_4': -1483392474
+      '!birds_ small flying_40': 1198909254
+      '!birds_ small flying_41': -721429807
+      '!birds_ small flying_42': -1868168355
+      '!birds_ small flying_43': 203614848
+      '!birds_ small flying_44': -42365961
+      '!birds_ small flying_45': -2048136337
+      '!birds_ small flying_46': -680065581
+      '!birds_ small flying_47': 534915321
+      '!birds_ small flying_48': 1117551089
+      '!birds_ small flying_49': -2125510099
+      '!birds_ small flying_5': -575769275
+      '!birds_ small flying_50': -1588798361
+      '!birds_ small flying_51': 1703651680
+      '!birds_ small flying_52': 1867010586
+      '!birds_ small flying_53': 1997482827
+      '!birds_ small flying_54': -691354693
+      '!birds_ small flying_55': -832228558
+      '!birds_ small flying_56': -1209738136
+      '!birds_ small flying_57': -198526846
+      '!birds_ small flying_58': -1049502687
+      '!birds_ small flying_59': 656525557
+      '!birds_ small flying_6': 1245857793
+      '!birds_ small flying_60': -2127578561
+      '!birds_ small flying_61': 786943717
+      '!birds_ small flying_62': 101036641
+      '!birds_ small flying_63': -2120479332
+      '!birds_ small flying_64': 1814313390
+      '!birds_ small flying_65': -1593272763
+      '!birds_ small flying_66': 1634952704
+      '!birds_ small flying_67': 1592930806
+      '!birds_ small flying_68': -1459562587
+      '!birds_ small flying_69': 843786190
+      '!birds_ small flying_7': -599629962
+      '!birds_ small flying_70': -1036757955
+      '!birds_ small flying_71': -1807903541
+      '!birds_ small flying_72': -479803857
+      '!birds_ small flying_73': -553666121
+      '!birds_ small flying_74': 270172948
+      '!birds_ small flying_75': -672743077
+      '!birds_ small flying_76': -8066401
+      '!birds_ small flying_77': 1707632771
+      '!birds_ small flying_78': 1706632468
+      '!birds_ small flying_79': 1583540971
+      '!birds_ small flying_8': -801925160
+      '!birds_ small flying_80': 948268994
+      '!birds_ small flying_81': -1608390209
+      '!birds_ small flying_82': -1291754824
+      '!birds_ small flying_83': -958749165
+      '!birds_ small flying_84': -794306501
+      '!birds_ small flying_85': 617193761
+      '!birds_ small flying_86': 240669784
+      '!birds_ small flying_87': -480325492
+      '!birds_ small flying_88': 1860859287
+      '!birds_ small flying_89': -1341351509
+      '!birds_ small flying_9': -1422253637
+      '!birds_ small flying_90': -463754971
+      '!birds_ small flying_91': 1447142735
+      '!birds_ small flying_92': 952624667
+      '!birds_ small flying_93': 1541469169
+      '!birds_ small flying_94': 1784486941
+      '!birds_ small flying_95': -486105991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

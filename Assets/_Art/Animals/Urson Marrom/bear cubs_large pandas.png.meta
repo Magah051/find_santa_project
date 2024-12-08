@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 9f0b91e4ff8244749a9c8128ad08564b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bear cubs_large pandas_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc2aa9ba83ab542bb93c383eb2a326
+      internalID: 570294871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 336
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20082500a7dae604b8a7797ff3731a12
+      internalID: -2075082032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c87fde411e97c4f9285f874cfbd7f7
+      internalID: 1981261442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d9bc8f2089b024d900f6aa6f0785c7
+      internalID: 1257816425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 336
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb4083087d68142a1d862cf9c8b73a
+      internalID: -1269797005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6d42d4edde024c9e2ca735196fe79
+      internalID: -239980018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc2dea460dd98a4b86aa97c486aed62
+      internalID: -879837666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 336
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db65148eeac26b4f96489d5fdc7106d
+      internalID: -1627806055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6c82ecb03f444e8f58c8e942f68c3
+      internalID: -1435401962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c42ebaf29b4b541be5745d8a2bf9d9
+      internalID: -1502760378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 336
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b169a7a6cca774c9564c4c1dc54254
+      internalID: -319599497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 336
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76edb952cbbd5f4796ef0b111721d69
+      internalID: 1220697066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788228ef265385846ad664122a7cd788
+      internalID: -1013164859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000018c0020f9945adb6b94b9d68fd0
+      internalID: 81814980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9532bfb7c3b54fbd6f647eb451daa
+      internalID: -2027191835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294a1700baee7f47ba4c98ba5d1f1ed
+      internalID: 1313151201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096182ef5fc76af49beb204c9ba40738
+      internalID: -2143299391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a4be1a9b9ef8a4699522d6d91f77b8
+      internalID: -39033074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc69040d14813e4fa006ea1f9a33769
+      internalID: 1801649387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f456293308b39a46bdbd25f6b373af3
+      internalID: 2034501091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91679b7edb9914e87ba44b6c4fd77d
+      internalID: -1232932042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3475b6c5b07504eb1cc52a26a8d16e
+      internalID: 557306352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288dcb5a7d8141245a209fe2664eb74c
+      internalID: -1537817030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759fa594e3c2f64e92ae7d4d90de8f7
+      internalID: 1601777283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4babd8d2adee38f45b3598200e6810a8
+      internalID: -2022265513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc3db55afbb1245a00f621434702a3
+      internalID: -1299931604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b3c8f75db6b3244b348759a51ab311
+      internalID: 1550417520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feb73bf87ced374aa9163a8d0574d12
+      internalID: -70395682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665918099042424aa4e1f0d8e9c1505
+      internalID: -1735553621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9918310fb65caf43b2e6e38ae14b72e
+      internalID: -1183443469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2894078c679a416419f6e7d1369350e9
+      internalID: -101331606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e93797ba83b6408f885a2046316ae
+      internalID: -1304844775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 240
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c37dc2e57bc5e4fbdef59c024ca77d
+      internalID: 361665188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 240
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d81e5d6852da98458720788c98e345e
+      internalID: 1879488981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75fcdb18c7f6c4887bec0ca10b50be
+      internalID: 462417189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ba1e9cb3b7914791302db64d7ef34
+      internalID: -66090395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936fb00c02ee8bf468493a38a34d58fb
+      internalID: -196876191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 192
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5436d7e4aacc40b112ba20d42b641
+      internalID: 1883984162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547fe54a0b8e5e3429fcd516a69cd6d8
+      internalID: 1022366921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079ec1e5b858114889851f4185ce34e
+      internalID: 221953660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aeffd1cbd623245a21e8ccc14834ca
+      internalID: -262275629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea09052068ecf64b8602e584fafb211
+      internalID: -1559554959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9712acf7ab56949abd5a588bac3f25
+      internalID: 1983856542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 192
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754817fc478762c4f8077107cd2a149b
+      internalID: 185887152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a48256207199f54697da91bd4e93ec1
+      internalID: 2060874235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c476aeaf76db48429f5ec2dd60eecd9
+      internalID: 660960719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 192
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b85cb4bf76384ca0f265e979307de
+      internalID: 1292842233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525766cb064a7649b981b107cf34cf2
+      internalID: -503380157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ef9339315d6e48bdf752b62e207d4
+      internalID: -1037725877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4693125617a20534d9c476b4246742a7
+      internalID: -1112813234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7759e86465c246984312278b27b1e
+      internalID: -423688163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36154b0afae672747a14b77db4a9c155
+      internalID: 2140569640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 144
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ac8bb55b6ebf4da85fc05588488f5
+      internalID: 724311684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 144
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ef5ae3f86da042bb9156e4ff49f14
+      internalID: 1819067660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 144
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47301bd4f78ac76478352eec769ae2bc
+      internalID: -853636449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 144
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59fa32ff2873b4f8f41bcf0b9adea4
+      internalID: 1643687505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 144
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ba6181617204499796b5d66045ca7
+      internalID: 1988826614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 144
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ed76f6cd80df4f9c48be2e9f97194
+      internalID: 1474525142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_58
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 144
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959cc19886ee2f4b87338322b3d007f
+      internalID: -262460246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 144
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72939e82cd67ca4468993a90a5f522ab
+      internalID: 397507203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294874b82ae154042ba5a3c638c155ed
+      internalID: 548437585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0035dcf02dd64da2ef91400450ada
+      internalID: 1799529798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3daf51cbfb1cc4e911873f8549105d
+      internalID: -1746517472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665129fcb45ce64190570bcd5252077
+      internalID: 453916494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd7c744ab911db428960db21d8d1368
+      internalID: 1733355014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f85e3e95d86f41ab445fb38a30a5f
+      internalID: -1847036791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030291edaa8b27147a602e3cd31b904b
+      internalID: -1449788532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f90e0511dafb04198b53226493d366
+      internalID: -871800943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d284520e4b804283d13661eb5922f
+      internalID: -563295719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b577a6a9f0b8a40834c35f1fe88ffb
+      internalID: -890212651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450ef39fd0c7a554da6b68e07135829d
+      internalID: -92836945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc29492c05e7084db5f6a232aba38eb
+      internalID: -1051414848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d7fa2ca17faa6499b4ff1392912dbc
+      internalID: -1208268344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808bfaec788cee4eb5b32d96de06894
+      internalID: -212099431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9fac2a541475448ba2041a35e7ab8
+      internalID: 1234613922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782d699823e67541a947ebbb6d24b70
+      internalID: -1404420581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68847bc7e2d343942919c5c241aba617
+      internalID: -1004328610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57066735126cfa5408460dfe01cb3ba5
+      internalID: -848071104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bb225137f4824798dbd2f393784ab
+      internalID: 1475724129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf6524386707d94c80bb1f3ecfff12c
+      internalID: 1884617834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 48
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a523d186542d9b468b28763d7536c06
+      internalID: -2049465925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be58131c850fd4dac3282d070406fe
+      internalID: 1952072217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 48
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e847f82bff614543979f28b702c97c9
+      internalID: -1224821503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 48
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143f4f70a828384184411f25519a081
+      internalID: 1162598829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe677960009b24284eb69c00d3bbe1
+      internalID: 1095208651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b3954c1438ca94a92807025cac5ba9
+      internalID: -1741564829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3942ca9475fbbe4c800cd15bfd0481e
+      internalID: -757703809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec71b5f052247aa42bd394d64c258211
+      internalID: 1456105989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2a966534422b408896d5e5f23cebf
+      internalID: -1045047920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158bcbaa6b086a44827e8a1f3e13314
+      internalID: 890449088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e735eaefb2544085c3c34ab82cb8d
+      internalID: -1472268850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_91
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f974c2169568bb46b123b1d70d798c7
+      internalID: -475293433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_92
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda78ae844fe644a9a2b9ab9fc2c0f5
+      internalID: -29775363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8b889eb399db4b915b603a577b479
+      internalID: -485718550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccebb131bf4854544baae0b6405a1118
+      internalID: 2059856263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bear cubs_large pandas_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014622715304754f973f22c9fb3392c
+      internalID: 248907648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bear cubs_large pandas_0: 570294871
+      bear cubs_large pandas_1: -2075082032
+      bear cubs_large pandas_10: -319599497
+      bear cubs_large pandas_11: 1220697066
+      bear cubs_large pandas_12: -1013164859
+      bear cubs_large pandas_13: 81814980
+      bear cubs_large pandas_14: -2027191835
+      bear cubs_large pandas_15: 1313151201
+      bear cubs_large pandas_16: -2143299391
+      bear cubs_large pandas_17: -39033074
+      bear cubs_large pandas_18: 1801649387
+      bear cubs_large pandas_19: 2034501091
+      bear cubs_large pandas_2: 1981261442
+      bear cubs_large pandas_20: -1232932042
+      bear cubs_large pandas_21: 557306352
+      bear cubs_large pandas_22: -1537817030
+      bear cubs_large pandas_23: 1601777283
+      bear cubs_large pandas_24: -2022265513
+      bear cubs_large pandas_25: -1299931604
+      bear cubs_large pandas_26: 1550417520
+      bear cubs_large pandas_27: -70395682
+      bear cubs_large pandas_28: -1735553621
+      bear cubs_large pandas_29: -1183443469
+      bear cubs_large pandas_3: 1257816425
+      bear cubs_large pandas_30: -101331606
+      bear cubs_large pandas_31: -1304844775
+      bear cubs_large pandas_32: 361665188
+      bear cubs_large pandas_33: 1879488981
+      bear cubs_large pandas_34: 462417189
+      bear cubs_large pandas_35: -66090395
+      bear cubs_large pandas_36: -196876191
+      bear cubs_large pandas_37: 1883984162
+      bear cubs_large pandas_38: 1022366921
+      bear cubs_large pandas_39: 221953660
+      bear cubs_large pandas_4: -1269797005
+      bear cubs_large pandas_40: -262275629
+      bear cubs_large pandas_41: -1559554959
+      bear cubs_large pandas_42: 1983856542
+      bear cubs_large pandas_43: 185887152
+      bear cubs_large pandas_44: 2060874235
+      bear cubs_large pandas_45: 660960719
+      bear cubs_large pandas_46: 1292842233
+      bear cubs_large pandas_47: -503380157
+      bear cubs_large pandas_48: -1037725877
+      bear cubs_large pandas_49: -1112813234
+      bear cubs_large pandas_5: -239980018
+      bear cubs_large pandas_50: -423688163
+      bear cubs_large pandas_51: 2140569640
+      bear cubs_large pandas_52: 724311684
+      bear cubs_large pandas_53: 1819067660
+      bear cubs_large pandas_54: -853636449
+      bear cubs_large pandas_55: 1643687505
+      bear cubs_large pandas_56: 1988826614
+      bear cubs_large pandas_57: 1474525142
+      bear cubs_large pandas_58: -262460246
+      bear cubs_large pandas_59: 397507203
+      bear cubs_large pandas_6: -879837666
+      bear cubs_large pandas_60: 548437585
+      bear cubs_large pandas_61: 1799529798
+      bear cubs_large pandas_62: -1746517472
+      bear cubs_large pandas_63: 453916494
+      bear cubs_large pandas_64: 1733355014
+      bear cubs_large pandas_65: -1847036791
+      bear cubs_large pandas_66: -1449788532
+      bear cubs_large pandas_67: -871800943
+      bear cubs_large pandas_68: -563295719
+      bear cubs_large pandas_69: -890212651
+      bear cubs_large pandas_7: -1627806055
+      bear cubs_large pandas_70: -92836945
+      bear cubs_large pandas_71: -1051414848
+      bear cubs_large pandas_72: -1208268344
+      bear cubs_large pandas_73: -212099431
+      bear cubs_large pandas_74: 1234613922
+      bear cubs_large pandas_75: -1404420581
+      bear cubs_large pandas_76: -1004328610
+      bear cubs_large pandas_77: -848071104
+      bear cubs_large pandas_78: 1475724129
+      bear cubs_large pandas_79: 1884617834
+      bear cubs_large pandas_8: -1435401962
+      bear cubs_large pandas_80: -2049465925
+      bear cubs_large pandas_81: 1952072217
+      bear cubs_large pandas_82: -1224821503
+      bear cubs_large pandas_83: 1162598829
+      bear cubs_large pandas_84: 1095208651
+      bear cubs_large pandas_85: -1741564829
+      bear cubs_large pandas_86: -757703809
+      bear cubs_large pandas_87: 1456105989
+      bear cubs_large pandas_88: -1045047920
+      bear cubs_large pandas_89: 890449088
+      bear cubs_large pandas_9: -1502760378
+      bear cubs_large pandas_90: -1472268850
+      bear cubs_large pandas_91: -475293433
+      bear cubs_large pandas_92: -29775363
+      bear cubs_large pandas_93: -485718550
+      bear cubs_large pandas_94: 2059856263
+      bear cubs_large pandas_95: 248907648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

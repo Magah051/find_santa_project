@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 590eecf073affe54492a44d80ba5d7aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dLATMFF_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 340
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c57fea773e5ef4f8b6581e8d355235
+      internalID: -1482801931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 341
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0095b6ae595642b0129f041540361
+      internalID: -1637120845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b713865c103354eb1e0b93d551176e
+      internalID: -428282116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 340
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d4ac92077ca5343a9cc51fedd96f34
+      internalID: -1986050038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 341
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51565dcc8aa9f974ba9a7fce451d3aa3
+      internalID: -103132126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 342
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d2ae1d0ac4c4044b5548bbba1582a7
+      internalID: 481004018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 339
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba1dd2624c124469d71a9c01a68e2b
+      internalID: 1786489829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 340
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb8368f8e7f7e4a9f9aef4310b31a5
+      internalID: -1460348737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 341
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf5ff550b1a5a41b477054f23cb48d
+      internalID: -1010985773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 340
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fbc024c9db0c14f99720fa44718751
+      internalID: -1450278588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 341
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a92e3ead3c9524d9fe1100bf3efba6
+      internalID: 1700887305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 342
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129fac6c13436d64d8d5d34850654b99
+      internalID: -202024728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90893b1f0f409e24f9f4cd8898ff96a6
+      internalID: -1521381553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cd234be1a4d0940bddbc9d10fd79a1
+      internalID: -1885572419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 294
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da26abffb7ce7324f94c5c18ef7321ca
+      internalID: -2107328401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 292
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759508b2b039bd94c88899b0c9fcfa38
+      internalID: -1651342496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 293
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad4b4895a6a757498f2121b9d30f05a
+      internalID: 548554664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 294
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fea02f21413c4380d4470fe4dc040
+      internalID: 47849042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 291
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebe004eae013414885db3f916bb235e
+      internalID: -146810466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 292
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5edbe14fe10754381f83b295655e39
+      internalID: 359917407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 293
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebb0ac9ef417074f8223162903f6165
+      internalID: -1360740584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 292
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07531aa829273845b25cdaf7cab871e
+      internalID: 1856332629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 293
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4134e11de5a6d4199259d5c6bdce75
+      internalID: 1372502108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 294
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9522daa5d0df408d323a61bd4cb5c
+      internalID: -33255570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c2dfdeafc4e04f9fa96ce0f0708b0
+      internalID: 1842999063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 245
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52491e61e290f9a41979f2c48531dc27
+      internalID: 112985010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 246
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa780b290d8b84f902058133f1de2d
+      internalID: 1158714153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb570e23e6ff934fb0a956b6fff9f54
+      internalID: 62963545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 245
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557cc7e020bb5894b818b2324a0cffdd
+      internalID: 947058728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 246
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94d475509a0434b936650949ccadbc
+      internalID: 710302112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 239
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110f187b683d594b819b9f937c7a414
+      internalID: -1885953431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 244
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e84a1c0cda35d44bd5f1c4e77c184c
+      internalID: -1397878596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 245
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a103ddd73b1c84ebe0d0fd47b30b2a
+      internalID: -1923926600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 240
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e5fef124d5994ab961826ea046d6b
+      internalID: -716615755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 245
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0a89f3e9dba64f9bc4a41bd1e6c06
+      internalID: 1918356041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 246
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37041f4c1ff4d6246bb5eea5829d8dc2
+      internalID: -2079604016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61619549f8efabc47bee5ab62733ec91
+      internalID: 1890377488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 197
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef60c42cb1693a44a958765c6997f7e
+      internalID: 462065307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c30ede97a48347a2de570f9e7b04b
+      internalID: 598270725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 196
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d4cb1d939e134fb972923abd4fadd
+      internalID: 587935843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0297b8769ce0ea4f8443bbfa743ca0a
+      internalID: 1734791480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 198
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e7f3686e0580e4a9ee0fcb80caad70
+      internalID: 389068324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 195
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0894699b5b03204ba8bbe3f8201e67d
+      internalID: -1968471841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_43
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 196
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3e96042bd9fe499ffd490bb8c01d1
+      internalID: 1281958937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 197
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3982fa31507e5842a43ab387a65d7db
+      internalID: 1181003871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 196
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd428ebee0fdf478225b324eed39cd
+      internalID: -122872613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 197
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4710086ee6f4844aa4a0deee9a5e97
+      internalID: -1449942835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 198
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ff7ea63c5cb5499dacd3ae06545ed
+      internalID: -1405004261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119caa768525c7b4b9373508f83455b0
+      internalID: 293675293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03107a3260ee2c340a8f44d5ec84b000
+      internalID: -1881878520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f467ec1e2a8146049b0a1f15dc8c624a
+      internalID: -1347177399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a835e692bd6329498f1b09d24274f96
+      internalID: 2093402000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 149
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047b0fe0d39ed346ae16f157b91363b
+      internalID: 813265826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 150
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885935bac11ccb84b86f86d8d5d4e602
+      internalID: -1719139842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dfe7bf1a7a54c4da1cc7bf9a727c5e
+      internalID: -1049711936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 148
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c47b28d7b1ac439560827abd98942
+      internalID: 596186243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 149
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f358569a8f7b24f92d710659ab1db9
+      internalID: -1161978506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 148
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d10b9869a21fe4083be981ee56c5c5
+      internalID: 937123589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 149
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828843bc66547044924073d36c1183f
+      internalID: -1486285314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 150
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2fee21334c5b841b4d0fad50caaee0
+      internalID: -408561340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c327be23988bc4e8b74caf35965538
+      internalID: -5030390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 101
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db939f30f61b44c88f5704b6f32f7a
+      internalID: -1997812649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 102
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f35b21a6e13854db2a873a0289c6e2
+      internalID: 1552010574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 100
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0462c4262a9c35248b3717ee9edd9cbe
+      internalID: -2136731597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 101
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5610ff8e25434fac22e044cc68f82
+      internalID: -932016260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 102
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c19227ecca5b24e829ac3a7f5932a7
+      internalID: 1307230564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 99
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf040623f694c94da1248f826bae26b
+      internalID: 247051810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 100
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f9a5e0297be84d9f647c69b88bb59
+      internalID: 267347810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_68
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 101
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd3d7c734b30ea4bbe732d82bb15c0b
+      internalID: 436545399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 100
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37264c6eb2d97b54e994900a0203eb3d
+      internalID: 1407949194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 101
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43faaa59f1919843b556b0b15c66622
+      internalID: -1216955300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 102
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7771f16cd56c6224d8f3a4ce84f49e8c
+      internalID: 1724430591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0495aa81bcb04db690d1339a294c0
+      internalID: 1757121721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72550778542f849a82c70e6fcb1b01
+      internalID: 1969602270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 54
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c6ee6a62a3f34fb2ac7af8895eb3c
+      internalID: -1514948456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de4f2dc9f50d6b41b0a3b3eaf6d0123
+      internalID: 1865166062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd491e078db1424c8f5399c22abd5b4
+      internalID: -1505338375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 54
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71234f530274c49469d137cf09aeea2d
+      internalID: 1567068245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 47
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ce52c60695054cb19b55e613f2f73
+      internalID: -199241881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 52
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d35513df2b65ad43b51cfd0aec6cbc7
+      internalID: -482325142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_80
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 53
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704cc1ad89a54ab46957dcb95ae7cde0
+      internalID: 1733319576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_81
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 48
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e1105b9c5f62049896502263f8968c
+      internalID: -1257815240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 53
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3201794b16d632c48b344fe993c5cd15
+      internalID: -1435911321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_83
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 54
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29da68a18e1ec45ba45a36f0912123
+      internalID: -1355885422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a254c3c20cbe1478093b4733245ed3
+      internalID: 1159991346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4820be477ee8e64887a5b5ece8979a2
+      internalID: -1396748407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db92f9b363a38c54f902552e5ac28561
+      internalID: -1681873687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ffda149b9e6b7459de85ee4368e812
+      internalID: -2079659519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b67e6c2dac7940b3a0542f1401d17
+      internalID: -758500041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_89
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11651cab56699c4db79762068c053ba
+      internalID: 1013107246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3bc3b9a723a8b4a957b5998bc7001c
+      internalID: 2094453648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_91
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb72e7f8efcea47b5c206397782584
+      internalID: 413047573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc63c4656d809249a27e9e7fddcee58
+      internalID: 476144290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_93
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f45aec4e4dc5146821d804862b5d2a
+      internalID: -1928232211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_94
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348303a9a69219840a6b04e8f50ee730
+      internalID: 1179116458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dLATMFF_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff44a45fed834408cdf495c6ffa606
+      internalID: -1933363021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dLATMFF_0: -1482801931
+      dLATMFF_1: -1637120845
+      dLATMFF_10: 1700887305
+      dLATMFF_11: -202024728
+      dLATMFF_12: -1521381553
+      dLATMFF_13: -1885572419
+      dLATMFF_14: -2107328401
+      dLATMFF_15: -1651342496
+      dLATMFF_16: 548554664
+      dLATMFF_17: 47849042
+      dLATMFF_18: -146810466
+      dLATMFF_19: 359917407
+      dLATMFF_2: -428282116
+      dLATMFF_20: -1360740584
+      dLATMFF_21: 1856332629
+      dLATMFF_22: 1372502108
+      dLATMFF_23: -33255570
+      dLATMFF_24: 1842999063
+      dLATMFF_25: 112985010
+      dLATMFF_26: 1158714153
+      dLATMFF_27: 62963545
+      dLATMFF_28: 947058728
+      dLATMFF_29: 710302112
+      dLATMFF_3: -1986050038
+      dLATMFF_30: -1885953431
+      dLATMFF_31: -1397878596
+      dLATMFF_32: -1923926600
+      dLATMFF_33: -716615755
+      dLATMFF_34: 1918356041
+      dLATMFF_35: -2079604016
+      dLATMFF_36: 1890377488
+      dLATMFF_37: 462065307
+      dLATMFF_38: 598270725
+      dLATMFF_39: 587935843
+      dLATMFF_4: -103132126
+      dLATMFF_40: 1734791480
+      dLATMFF_41: 389068324
+      dLATMFF_42: -1968471841
+      dLATMFF_43: 1281958937
+      dLATMFF_44: 1181003871
+      dLATMFF_45: -122872613
+      dLATMFF_46: -1449942835
+      dLATMFF_47: -1405004261
+      dLATMFF_48: 293675293
+      dLATMFF_49: -1881878520
+      dLATMFF_5: 481004018
+      dLATMFF_50: -1347177399
+      dLATMFF_51: 2093402000
+      dLATMFF_52: 813265826
+      dLATMFF_53: -1719139842
+      dLATMFF_54: -1049711936
+      dLATMFF_55: 596186243
+      dLATMFF_56: -1161978506
+      dLATMFF_57: 937123589
+      dLATMFF_58: -1486285314
+      dLATMFF_59: -408561340
+      dLATMFF_6: 1786489829
+      dLATMFF_60: -5030390
+      dLATMFF_61: -1997812649
+      dLATMFF_62: 1552010574
+      dLATMFF_63: -2136731597
+      dLATMFF_64: -932016260
+      dLATMFF_65: 1307230564
+      dLATMFF_66: 247051810
+      dLATMFF_67: 267347810
+      dLATMFF_68: 436545399
+      dLATMFF_69: 1407949194
+      dLATMFF_7: -1460348737
+      dLATMFF_70: -1216955300
+      dLATMFF_71: 1724430591
+      dLATMFF_72: 1757121721
+      dLATMFF_73: 1969602270
+      dLATMFF_74: -1514948456
+      dLATMFF_75: 1865166062
+      dLATMFF_76: -1505338375
+      dLATMFF_77: 1567068245
+      dLATMFF_78: -199241881
+      dLATMFF_79: -482325142
+      dLATMFF_8: -1010985773
+      dLATMFF_80: 1733319576
+      dLATMFF_81: -1257815240
+      dLATMFF_82: -1435911321
+      dLATMFF_83: -1355885422
+      dLATMFF_84: 1159991346
+      dLATMFF_85: -1396748407
+      dLATMFF_86: -1681873687
+      dLATMFF_87: -2079659519
+      dLATMFF_88: -758500041
+      dLATMFF_89: 1013107246
+      dLATMFF_9: -1450278588
+      dLATMFF_90: 2094453648
+      dLATMFF_91: 413047573
+      dLATMFF_92: 476144290
+      dLATMFF_93: -1928232211
+      dLATMFF_94: 1179116458
+      dLATMFF_95: -1933363021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
